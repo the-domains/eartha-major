@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#D0C8B8'
+    - '#000000'
+    - '#787868'
+    - '#000000'
+    - '#000000'
+  brandStrength: 0.960032
+  lightness: 0.258446
+  rhythmicContrast: 0.880825
+  saturation: 0.94945
+cta: {}
+layout_spectrum: 0.945101
+name: Eartha Major
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.549831
